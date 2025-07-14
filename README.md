@@ -2,7 +2,7 @@
 A simple Python program that measures your typing speed and accuracy.
 
 ## How it works
-Displays a sample sentence 
+Displays a sample sentence \n
 Times how long it takes to type that sentence in seconds 
 Calculates words per minute 
 Compares your input to the original sample sentence
